@@ -1,1 +1,2 @@
 ¡Hola! Mi nombre es Ximena González Picén.
+Tengo 19 años y actualmente estoy cursando el curso de Git y Github.
