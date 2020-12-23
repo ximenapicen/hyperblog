@@ -1,2 +1,4 @@
 ¡Hola! Mi nombre es Ximena González Picén.
 Tengo 22 años y actualmente estoy cursando el curso de Git y Github.
+El ultimo grado de estudios que tengo es el grado de 
+bachillerato. Egresé de la Universidad La Salle Nezahualcoyotl.
